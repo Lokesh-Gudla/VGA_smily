@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/smily/smily/smily.srcs/sources_1/new/face.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module face
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VLSI/Desktop/smily/smily/smily.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
